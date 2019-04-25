@@ -1,2 +1,2 @@
 # DevOps
-Projet DevOps ESIEE Paris E4
+Ce projet est réalisé dans le cadre d'étude DevOps à l'ESIEE Paris E4.
